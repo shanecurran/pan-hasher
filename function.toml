@@ -1,4 +1,4 @@
 [function]
-name = "hello-function"
+name = "pan-hasher"
 language = "node@18"
 handler = "index.handler"
